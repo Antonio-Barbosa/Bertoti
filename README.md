@@ -5,13 +5,13 @@
 # Não funcionais
 ![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/88495476/156674454-51a199b6-b66f-4970-930a-1c1aebedc71c.png)
 
-#Heurística de usabilidade 
+# Heurística de usabilidade 
 
-#2:Correspondência entre o sistema e o mundo real:
+2:Correspondência entre o sistema e o mundo real:
 
-Ao usar palavras como 'Anexar tarefas' e 'Eviar', o usuário acha as palavras familiares e se sente mais confiante.
+Ao usar palavras como 'Anexar tarefas' e 'Eviar', o usuário as reconhecem é se sente mais confiante.
 
-#8: Design estético e minimalista
+8: Design estético e minimalista
 
 Uma inerface simples, com ícones que fazem relação com cada ação, facilitando o entendimento do usúario. 
 
