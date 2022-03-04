@@ -7,7 +7,8 @@
 
 #Heurística de usabilidade 
 
-#2:Correspondência entre o sistema e o mundo real
+#2:Correspondência entre o sistema e o mundo real:
+
 Ao usar palavras como 'Anexar tarefas' e 'Eviar', o usuário acha as palavras familiares e se sente mais confiante.
 
 
