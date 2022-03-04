@@ -9,7 +9,7 @@
 
 2:Correspondência entre o sistema e o mundo real:
 
-Ao usar palavras como 'Anexar tarefas' e 'Eviar', o usuário as reconhecem é se sente mais confiante.
+Ao usar palavras como 'Anexar tarefas' e 'Enviar', o usuário as reconhecem é se sente mais confiante.
 
 8: Design estético e minimalista
 
