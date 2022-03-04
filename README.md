@@ -11,4 +11,12 @@
 
 Ao usar palavras como 'Anexar tarefas' e 'Eviar', o usuário acha as palavras familiares e se sente mais confiante.
 
+#8: Design estético e minimalista
+
+Uma inerface simples, com ícones que fazem relação com cada ação, facilitando o entendimento do usúario. 
+
+
+
+
+
 
