@@ -22,6 +22,12 @@ Uma inerface simples, com ícones que fazem relação com cada ação, facilitan
 
 ![diagrama_de_class](https://user-images.githubusercontent.com/88495476/157859231-e1314e0a-c3d0-4844-a7ee-42142e192414.png)
 
+# Codigo referente a plataforma_Ensino
+![Plataforma-Ensino](https://user-images.githubusercontent.com/88495476/157899660-87dc6b24-31df-4f82-87d2-75624b189857.png)
+
+# Codigo referente a Usuario
+![Usuario](https://user-images.githubusercontent.com/88495476/157899773-9ba2e157-3d64-45ef-a12c-221573f9cf39.png)
+
 
 
 
