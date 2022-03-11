@@ -20,7 +20,8 @@ Uma inerface simples, com ícones que fazem relação com cada ação, facilitan
 # Diagrama de classe
 ##
 
-![diagrama_de_class](https://user-images.githubusercontent.com/88495476/157855420-1476b1e0-e722-4d4c-9856-bee22372e1a0.png)
+![diagrama_de_class](https://user-images.githubusercontent.com/88495476/157859231-e1314e0a-c3d0-4844-a7ee-42142e192414.png)
+
 
 
 
