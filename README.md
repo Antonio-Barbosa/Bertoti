@@ -20,7 +20,8 @@ Uma inerface simples, com ícones que fazem relação com cada ação, facilitan
 # Diagrama de classe
 ##
 
-![Diagrama de class drawio](https://user-images.githubusercontent.com/88495476/157716402-2088da7e-5cca-4979-8aa0-b4a42b1bc308.png)
+![diagrama_de_class](https://user-images.githubusercontent.com/88495476/157855420-1476b1e0-e722-4d4c-9856-bee22372e1a0.png)
+
 
 
 
