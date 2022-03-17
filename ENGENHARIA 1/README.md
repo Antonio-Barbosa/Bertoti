@@ -1,6 +1,6 @@
 ## ANTONIO MARCELO BRITO BARBOSA  RA: 1460482121024
 
-# 03/03 - Ciclo de vida do DER SW
+# 03/03 - Ciclo de vida do DES. SW
 ##
 Requisitos funcionais e não funcinais Plataforma_Ensino
 # Requisitos
