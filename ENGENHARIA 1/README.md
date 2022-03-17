@@ -1,5 +1,10 @@
-# Bertoti-Engenharia I
-## Funcionais
+## ANTONIO MARCELO BRITO BARBOSA  RA: 1460482121024
+
+# 03/03 - Ciclo de vida do DER SW
+##
+Requisitos funcionais e não funcinais Plataforma_Ensino
+# Requisitos
+# Funcional
 ![Untitled Diagram drawio](https://user-images.githubusercontent.com/88495476/156669506-c6a92dd6-0c42-48ed-bf37-22795711b53f.png)
 ##
 ## Não funcionais
@@ -20,10 +25,18 @@ Uma inerface simples, com ícones que fazem relação com cada ação, facilitan
 ## Diagrama de classe
 ##
 
-![diagrama_de_class](https://user-images.githubusercontent.com/88495476/157859231-e1314e0a-c3d0-4844-a7ee-42142e192414.png)
+![Diagrama de class drawio (1)](https://user-images.githubusercontent.com/88495476/158864337-ea6f8e4f-a189-4c01-929f-b6ec92d53c82.png)
+##
 
-## Codigo referente a plataforma_Ensino
-![Plataforma-Ensino](https://user-images.githubusercontent.com/88495476/157899660-87dc6b24-31df-4f82-87d2-75624b189857.png)
+# Desenvolvimento
 
-## Codigo referente a Usuario
-![Usuario](https://user-images.githubusercontent.com/88495476/157899773-9ba2e157-3d64-45ef-a12c-221573f9cf39.png)
+# Chaves + Java
+Plataforma_Ensino
+![Plataforma](https://user-images.githubusercontent.com/88495476/158869188-1845d51c-f3c2-4a79-afbe-6e9ee87334d3.png)
+
+Usuario
+![Usuario](https://user-images.githubusercontent.com/88495476/158869242-b4e8395b-afa8-4f4c-a447-186aff4c243a.png)
+
+Turma
+![Turma](https://user-images.githubusercontent.com/88495476/158869271-21a9db37-13fd-475a-ad96-a280613ecfb8.png)
+
