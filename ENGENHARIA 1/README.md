@@ -22,7 +22,7 @@ Ao usar palavras como 'Anexar tarefas' e 'Enviar', o usuário as reconhecem é s
 
 Uma inerface simples, com ícones que fazem relação com cada ação, facilitando o entendimento do usúario. 
 
-## Diagrama de classe
+##  Projeto (Diagrama de classe)
 ##
 
 ![Diagrama de class drawio (1)](https://user-images.githubusercontent.com/88495476/158864337-ea6f8e4f-a189-4c01-929f-b6ec92d53c82.png)
