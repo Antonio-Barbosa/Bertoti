@@ -10,6 +10,11 @@
 # Não aplica
 ![mercado_livre](https://user-images.githubusercontent.com/88495476/186425201-3d703ca6-0ff1-4a91-b194-3c80456a274e.png)
 
+#  Diretriz 1.2 - Mídia baseada em tempo
+![1 2](https://user-images.githubusercontent.com/88495476/186431308-bf17d250-a10f-46bb-830a-0b08479ab33f.png) 
+
+#  Aplicavel
+![1 2A](https://user-images.githubusercontent.com/88495476/186431514-d67fa4db-44c6-4d6e-bfb4-daa922581dc8.png)
 
 
 
