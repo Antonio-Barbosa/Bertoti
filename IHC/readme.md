@@ -13,8 +13,12 @@
 #  Diretriz 1.2 - Mídia baseada em tempo
 ![1 2](https://user-images.githubusercontent.com/88495476/186431308-bf17d250-a10f-46bb-830a-0b08479ab33f.png) 
 
-#  Aplicavel
+#  Aplica
 ![1 2A](https://user-images.githubusercontent.com/88495476/186431514-d67fa4db-44c6-4d6e-bfb4-daa922581dc8.png)
+
+# Não aplica
+![Captura de tela 2022-08-31 093334](https://user-images.githubusercontent.com/88495476/187679480-f6636966-27f7-4b66-ab2a-e9c2d67362f5.png)
+
 
 
 
