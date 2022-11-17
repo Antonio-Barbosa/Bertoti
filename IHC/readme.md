@@ -19,6 +19,8 @@
 # Não aplica
 ![Captura de tela 2022-08-31 093334](https://user-images.githubusercontent.com/88495476/187679480-f6636966-27f7-4b66-ab2a-e9c2d67362f5.png)
 
-
+## Referências
+- <a href="https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=129&currentsidebar=%23col_overview#principle1"> Heurísticas </a>
+- <a href="https://guia-wcag.com/"> Guia </a>
 
 
