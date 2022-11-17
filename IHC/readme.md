@@ -17,10 +17,14 @@ Por que o critério existe?
 Descrever QUALQUER conteúdo visual é altamente importante para que todos possam entender o que está sendo apresentado, principalmente levando em consideração que recursos visuais são amplamente utilizados por designers para compor layouts e telas.
 
 # Aplica
-![Sem título](https://user-images.githubusercontent.com/88495476/186425084-7892d705-516a-4d6c-ab03-fcfb19ccea3e.png)
+<section align="center">
+    <img src="./img/J&J.png" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
+</section>
 
 # Não aplica
-![mercado_livre](https://user-images.githubusercontent.com/88495476/186425201-3d703ca6-0ff1-4a91-b194-3c80456a274e.png)
+<section align="center">
+    <img src="./img/mercadoLivre.png" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
+</section>
 
 ### 1.2 Mídia baseada no tempo
 Forneça alternativas para mídia baseada no tempo.
@@ -28,10 +32,14 @@ Forneça alternativas para mídia baseada no tempo.
 Qualquer conteúdo pré-gravado que contenha uma faixa de áudio (seja apenas áudio ou vídeo) deve possuir legenda. 
 
 #  Aplica
-![1 2A](https://user-images.githubusercontent.com/88495476/186431514-d67fa4db-44c6-4d6e-bfb4-daa922581dc8.png)
+<section align="center">
+    <img src="./img/YoutubeA.png" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
+</section>
 
 # Não aplica
-![Captura de tela 2022-08-31 093334](https://user-images.githubusercontent.com/88495476/187679480-f6636966-27f7-4b66-ab2a-e9c2d67362f5.png)
+<section align="center">
+    <img src="./img/YoutubeN.png" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
+</section>
 
 ### 1.3 Adaptável
 Crie conteúdo que possa ser apresentado de diferentes maneiras (por exemplo, layout mais simples) sem perder informações ou estrutura.
@@ -42,10 +50,14 @@ Um bom exemplo disso é o próprio GitHub que fez o site ser responsivo, isto é
 
 #  Aplica
 # Desktop
-![Captura de tela 2022-11-17 175257](https://user-images.githubusercontent.com/88495476/202557828-4e660e52-081b-4ee2-989f-cbfceed45419.png)
+<section align="center">
+    <img src="./img/GitDesktop.png" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
+</section>
 
 # Smartphone
-![Captura de tela 2022-11-17 175541](https://user-images.githubusercontent.com/88495476/202558189-b36c174a-8889-4c7c-8d63-8a6eb7378b15.png)
+<section align="center">
+    <img src="./img/GitMobile.png" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
+</section>
 
 ### 1.4 Distinguível
 A intenção deste Critério de Sucesso é garantir que todos os usuários com visão possam acessar informações que são transmitidas por diferenças de cor, ou seja, pelo uso de cor onde cada cor tem um significado atribuído a ela. Se as informações forem transmitidas por diferenças de cor em uma imagem (ou outro formato não-texto), a cor pode não ser vista por usuários com deficiências de cor. Neste caso, fornecer as informações transmitidas com cor através de outro meio visual garante que os usuários que não podem ver a cor ainda possam perceber as informações.
@@ -55,7 +67,7 @@ A cor é um importante ativo no design de conteúdo web, aumentando seu apelo es
 Um bom exemplo desse recurso é quando esquecemos de preencher algum campo obrigatório de um formulário:
 
 <section align="center">
- <img src="![Captura de tela 2022-11-17 175857](https://user-images.githubusercontent.com/88495476/202558644-fce4b68d-9a91-4142-915b-38e1a7942568.png)"alt="aviso de campos obrigatórios" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
+    <img src="./img/Form.png" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
 </section>
 
 
