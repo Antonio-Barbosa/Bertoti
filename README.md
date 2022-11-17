@@ -1,6 +1,6 @@
 # 👨‍🎓 Informações do estudante
-Nome: Bruna dos Santos Dias<br>
-RA: 	1460482121009
+Nome: Antonio Marcelo Brito Barbosa<br>
+RA: 1460482121024
 
 ## 🎯 Objetivo
 Repositório criado para armazenar as atividades desenvolvidas nas disciplinas do Prof. Juliano Bertoti
