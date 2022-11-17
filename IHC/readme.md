@@ -104,9 +104,12 @@ Um bom exemplo disso é o menu do mercado livre, que está presente em todas as 
 <section align="center">
     <img src="./img/mercadoBarra.png" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
 </section>
+
 ## 3 - Compreensível
+
 As informações e o funcionamento da interface do usuário devem ser compreensíveis.
 ### 3.1 Legível
+
 Palavras regionais específicas e nomes próprios costumam ter pronúncias também específicas. Deve ser fornecida uma forma de possibilitar a correta compreensão da pronúncia em alguns casos.
 
 Um bom exemplo disso é o tradutor do goole, que disponibiliza um arquivo de áudio exemplificando como deve ser a pronúncia: 
