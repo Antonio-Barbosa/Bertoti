@@ -70,6 +70,42 @@ Um bom exemplo desse recurso é quando esquecemos de preencher algum campo obrig
     <img src="./img/Form.png" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
 </section>
 
+## 2. Operável
+Os componentes da interface do usuário e a navegação devem ser operáveis.
+
+### 2.1 Teclado acessível
+Usuários que interagem com seus dispositivos através da fala muitas vezes usam palavras ou strings de letras para fazê-lo. Aplicativos e sites que usam comandos de teclado de letras únicas para ativar funções podem ser frustrantes ou não funcionais para esses usuários, porque ditar uma palavra pode ter consequências totalmente não intencionais. Dar aos usuários a capacidade de desligar, remapear ou limitar a ativação desses atalhos retorna funcionalidade a esses usuários.
+
+Um bom exemplo desse recurso é o uso dos atalhos de teclado: 
+
+<section align="center">
+    <img src="./img/Teclado.png" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
+</section>
+
+### 2.2 Tempo suficiente
+Forneça aos usuários tempo suficiente para ler e usar conteúdo.
+Qualquer elemento na tela que tenha movimento automático ou pisque e que dure mais do que 5 segundos, deve ter um tipo de controle onde a pessoa que o utiliza pode pausar, parar ou ocultar. 
+
+Um bom exemplo desse recurso é o botão de pause que o Youtube oferece: 
+
+<section align="center">
+    <img src="./img/youtubeP.png" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
+</section>
+
+### 2.3 Convulções e Reações Físicas
+Não projete conteúdo de forma conhecida por causar convulsões ou reações físicas.
+Nenhum conteúdo da página deve piscar mais que 3 vezes por segundo, a não ser que os flashes estejam em baixo contraste ou possuam pouco vermelho.
+
+### 2.4 Navegável
+Fornecer maneiras de ajudar os usuários a navegar, encontrar conteúdo e determinar onde eles estão.
+Um mecanismo está disponível para contornar blocos de conteúdo que são repetidos em várias páginas da Web. 
+
+Um bom exemplo disso é o menu do mercado livre, que está presente em todas as páginas que o usuário possa acessar do site.
+<section align="center">
+    <img src="./img/mercadoBarra.png" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
+</section>
+
+
 
 ## Referências
 - <a href="https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=129&currentsidebar=%23col_overview#principle1"> Heurísticas </a>
