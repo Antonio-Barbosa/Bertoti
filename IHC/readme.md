@@ -123,7 +123,7 @@ No conteúdo implementado usando linguagens de marcação, as mensagens de statu
 Um bom exemplo desse recurso é o WhatsApp, que possibilita o usuário setar quem pode ver sua foto de perfil por exemplo: 
 
 <section align="center">
-    <img src="./images/App.png" alt="status de atividade discord" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
+    <img src="./img/App.png"  style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
 </section>
 
 ## Referências
