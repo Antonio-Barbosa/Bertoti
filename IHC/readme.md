@@ -104,8 +104,27 @@ Um bom exemplo disso é o menu do mercado livre, que está presente em todas as 
 <section align="center">
     <img src="./img/mercadoBarra.png" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
 </section>
+## 3 - Compreensível
+As informações e o funcionamento da interface do usuário devem ser compreensíveis.
+### 3.1 Legível
+Palavras regionais específicas e nomes próprios costumam ter pronúncias também específicas. Deve ser fornecida uma forma de possibilitar a correta compreensão da pronúncia em alguns casos.
 
+Um bom exemplo disso é o tradutor do goole, que disponibiliza um arquivo de áudio exemplificando como deve ser a pronúncia: 
 
+<section align="center">
+    <img src="./img/tradutor.png" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
+</section>
+
+## 4 - Robusto
+O conteúdo deve ser robusto o suficiente para que possa ser interpretado por uma grande variedade de agentes do usuário, incluindo tecnologias assistivas.
+### 4.1 Compatível
+No conteúdo implementado usando linguagens de marcação, as mensagens de status podem ser determinadas programáticamente por meio de função ou propriedades, de modo que possam ser apresentadas ao usuário por tecnologias assistivas sem receber foco.
+
+Um bom exemplo desse recurso é o WhatsApp, que possibilita o usuário setar quem pode ver sua foto de perfil por exemplo: 
+
+<section align="center">
+    <img src="./images/App.png" alt="status de atividade discord" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
+</section>
 
 ## Referências
 - <a href="https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=129&currentsidebar=%23col_overview#principle1"> Heurísticas </a>
